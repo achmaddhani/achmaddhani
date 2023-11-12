@@ -18,5 +18,5 @@ A passionate Data Analyst and Data Scientist.
 
 ---
 
-Thank you for visiting my profile! Star some repositories if you find them interesting and hit me up! :D
+Thank you for visiting my profile! Star some repositories if you find them interesting and hit me up!
 
