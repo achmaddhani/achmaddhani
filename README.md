@@ -2,7 +2,7 @@
 
 A passionate Data Analyst and Data Scientist.
 
-- 📫 How to reach me: [audiputrayoga21@gmail.com]
+- 📫 How to reach me: audiputrayoga21@gmail.com
 - LinkedIn: [Achmad Dhani](https://www.linkedin.com/in/achmaddhani/)
 ### 🔍 My Projects
 
