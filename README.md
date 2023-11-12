@@ -3,7 +3,6 @@
 A passionate Data Analyst and Data Scientist.
 
 - 📫 How to reach me: audiputrayoga21@gmail.com
-- LinkedIn: [Achmad Dhani](https://www.linkedin.com/in/achmaddhani/)
 ### 🔍 My Projects
 
 1. [**Zomato Investment Analysis**](https://github.com/achmaddhani/zomato-investment-analysis): EDA of low risk/high rewards restaurants in Zomato Dataset
