@@ -7,6 +7,7 @@ A passionate Data Analyst and Data Scientist.
 
 1. [**Zomato Investment Analysis**](https://github.com/achmaddhani/zomato-investment-analysis): EDA of low risk/high rewards restaurants in zomato dataset
 2. [**Water Potability Model**](https://github.com/achmaddhani/water-potability-model): EDA and classification model prediction regarding water potability
+3. [**Smoking and Drinking Analysis & Model**](https://github.com/achmaddhani/smoking-drinking-classification-analysis) : Work in Progress
 
 ### 🛠️ Skills and Tools
 
