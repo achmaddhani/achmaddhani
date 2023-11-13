@@ -11,11 +11,11 @@ A passionate Data Analyst and Data Scientist.
 
 ### 🛠️ Skills and Tools
 
-- **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly)
+- **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow)
 - **Database Management:** PostgreSQL
 - **Data Analysis:** Exploratory Data Analysis, Statistical Analysis, Data Visualization
 - **Machine Learning:** Regression, Classification, Clustering
-- **Tools and Platforms:** Jupyter Notebooks, Git, TableU, Visual Studio Code
+- **Tools and Platforms:** Jupyter Notebooks, Git, TableUe
 
 ---
 
