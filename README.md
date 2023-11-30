@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dhani
 
-A passionate Data Analyst and Data Scientist.
+A passionate Data Scientist and Data Engineer
 
 ### 🔍 My Projects
 
