@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Dhani
 
-A Biochemist with a passion in Data Scientist and Data Engineer
-
+A Biochemist with a passion in Data Scientist
 ### 🔍 My Projects
 
 1. [**Zomato Investment Analysis**](https://github.com/achmaddhani/zomato-investment-analysis): EDA of potential restaurants invesments in zomato dataset
