@@ -15,7 +15,7 @@ A Biochemist with a passion in Data Scientist and Data Engineer
 - **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow), SQL
 - **Database Management:** PostgreSQL, MongoDB, Elasticsearch
 - **Data Analysis:** Exploratory Data Analysis, Statistical Analysis, Data Visualization
-- **Visualization Tools**: TableU, Kibana
+- **Visualization Tools**: Tableau, Kibana
 - **Machine Learning:** Regression, Classification, Clustering, ANN, NLP
 - **Tools and Platforms:** Jupyter Notebooks, Git, Visual Studio Code, Google Big Query
 
