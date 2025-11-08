@@ -7,8 +7,6 @@ A Biochemist with a passion in Data
 2. [**Water Potability Model**](https://github.com/achmaddhani/water-potability-model): EDA and classification model prediction regarding water potability
 3. [**Emotion Classification**](https://github.com/achmaddhani/emotion-classification): Deep learning and EDA of Emotion Classification
 4. [**Air Quality Index ETL and Kibana Visualizations**](https://github.com/achmaddhani/air-quality-index-etl-kibana): Automation ETL and EDA with Kibana visualization
-5. [**Smoking and Drinking Analysis & Model**](https://github.com/achmaddhani/smoking-drinking-classification-analysis): Work in Progress
-6. [**Anime Recommendation System**](https://github.com/achmaddhani/anime-recommendation): Work in Progress
 
 ### 🛠️ Skills and Tools
 
